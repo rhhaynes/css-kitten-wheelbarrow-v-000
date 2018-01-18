@@ -26,7 +26,7 @@
   left: 455px;
 }
 
-/*__write_selector_here__*/ {
+img[alt="Kitty 5"] {
   position: absolute;
   z-index: 3;
   top: 217px;
